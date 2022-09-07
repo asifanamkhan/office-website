@@ -5,8 +5,6 @@ namespace App\Repositories;
 /**
  * BaseRepository class
  * 
- * @author Md Abu Ahsan Basir <maab.career@gmail.com>
- * @package App\Repositories
  *
  */
 
